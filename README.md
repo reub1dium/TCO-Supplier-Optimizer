@@ -15,3 +15,4 @@ An Excel Solver linear optimization model designed to evaluate global supplier b
 
 ### Files Included
 * `TCO_Supplier_Optimiser.xlsx` — Full TCO calculation model, executive summary chart, and Excel Solver Sensitivity Report.
+* ![Model Preview](preview.png)
