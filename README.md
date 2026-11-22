@@ -14,4 +14,4 @@ An Excel Solver linear optimization model designed to evaluate global supplier b
 * **Sensitivity Insight:** Shadow price / reduced cost analysis shows that relaxing the single-supplier cap by 10% yields an additional **$6,040** in annual savings.
 
 ### Files Included
-* `TCO_Supplier_Optimizer.xlsx` — Full TCO calculation model, executive summary chart, and Excel Solver Sensitivity Report.
+* `TCO_Supplier_Optimiser.xlsx` — Full TCO calculation model, executive summary chart, and Excel Solver Sensitivity Report.
